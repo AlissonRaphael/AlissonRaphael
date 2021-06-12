@@ -8,17 +8,14 @@ Hi! I have a bachelor's degree in Science and Technology and graduated as a Prod
 Passionate about technology, I've always looked for solutions that would make it possible to insert businesses in the context of the fourth industrial revolution, until I was completely absorbed by the programming universe.
 
 ##
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=red&style=flat-square)<br/>
-![javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=111&logoColor=AAA&style=flat-square&link=)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=black&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=JavaScript&labelColor=f1cd00&label=&message=JavaScript&color=gold&logoColor=black&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&labelColor=3253b4&label=&message=Python&color=royalblue&logoColor=white&style=flat-square)
+![elixir](https://img.shields.io/static/v1?logo=elixir&labelColor=740074&label=&message=Elixir&color=darkmagenta&logoColor=white&style=flat-square)
+<br/>
+![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=black&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&labelColor=e0573f&label=&message=Git&color=tomato&logoColor=white&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&labelColor=00a8e0&label=&message=Docker&color=deepskyblue&logoColor=white&style=flat-square)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&labelColor=3c709b&label=&message=Kubernetes&color=steelblue&logoColor=white&style=flat-square)
+![jupyter-notebook](https://img.shields.io/static/v1?logo=jupyter&labelColor=dd3b00&label=&message=Jupyter-Notebook&color=orangered&logoColor=white&style=flat-square)
 
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=blue&style=flat-square)<br/>
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-
-
-## Other statistics
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonRaphael&layout=compact&&hide_border=true?theme=dark&title_color=000&bg_color=fff&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-</p>
